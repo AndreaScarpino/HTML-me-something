@@ -1,0 +1,47 @@
+body{
+  font-style: georgia, sans-serif;
+  line-height: normal;
+  color: #555753;
+}
+.pretty {
+  font: georgia, sans-serif;
+  letter-spacing: 1px;
+  margin-bottom: 0;
+  color: #7D775C;
+  text-align: center;
+}
+.read{
+  font: georgia, sans-serif;
+  letter-spacing: 1px;
+  margin-bottom: 0;
+  color: #7D775C;
+  text-align: left;
+}
+#smaller{
+  font-size: 9px;
+  text-align: center;
+}
+a:link{
+  font-weight: bold;
+  text-decoration: none;
+  color: #B7A5DF;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rotate90 {
+  webkit-transform: rotate(90deg);
+  moz-transform: rotate(90deg);
+  ms-transform: rotate(90deg);
+  o-transform: rotate(90deg);
+}
+a:visited {
+  font-weight: bold;
+  text-decoration: none;
+  color: #D4CDDC;
+}
+a:hover {
+  color: #9685BA;
+}
